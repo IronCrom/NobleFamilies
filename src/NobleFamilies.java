@@ -1,3 +1,5 @@
+import java.util.Comparator;
+
 public class NobleFamilies {
     private String name;
     private String surname;
